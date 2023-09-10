@@ -187,7 +187,7 @@ ul.check-list li p{padding-left: 10px; width: calc(100% - 18px); float: left;}
 /*----- Timeline Section -----*/
 .main-roadmap{overflow: hidden;}
 .main-roadmap .owl-carousel .owl-stage-outer {overflow: unset;}
-.h-border {border-bottom: 3px dashed; margin-top: 175px;}
+.h-border {border-bottom: 2px dashed; margin-top: 175px;}
 .date-title { font-size: 18px; font-weight: 700; position: absolute; top: -60px; width: 100%; left: 0;}
 .small-round {width: 38px; height: 38px; border: 2px solid; border-radius: 100%; position: absolute; top: -20px; left: 50%; transform: translate(-50%); z-index: 1;}
 .small-round span {width: 24px; height: 24px; border-radius: 100%; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 1;}
