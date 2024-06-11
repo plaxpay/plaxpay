@@ -152,7 +152,7 @@ header.fixed {padding: 15px 0px;}
 _______________________________________________________*/
 /*----- Home Banner -----*/
 .home-banner {padding: 220px 0px 140px 0px; overflow: hidden; background: url(../images/banner-bg.svg) no-repeat center / cover; background-attachment: fixed;}
-.banner-heading {font-size: 50px; padding-bottom: 10px;}
+.banner-heading {font-size: 22px; padding-bottom: 10px;}
 .banner-des {font-size: 16px; margin-bottom: 30px;}
 .banner-img {animation: MoveUpDown 2s linear infinite;text-align: center;}
 @keyframes MoveUpDown{0%{position: relative; top:0;}50%{position: relative; top:10px;} 100%{position: relative; top:0;}}
